@@ -2,10 +2,10 @@
   "name": "ecmascript-library-template",
   "version": "0.0.0-development",
   "private": false,
-  "description": "Ecmascript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping",
+  "description": "EcmaScript library to check value is valid number or not 🙌",
   "repository": {
     "type": "git",
-    "url": "https://github.com/varora1406/ecmascript-library-template.git"
+    "url": "https://github.com/varora1406/ecmascript-is-number.git"
   },
   "license": "MIT",
   "author": "Vaibhav Arora <varora1406@gmail.com>",
