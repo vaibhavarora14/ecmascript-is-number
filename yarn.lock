@@ -4452,7 +4452,7 @@ git-config-path@^2.0.0:
   resolved "https://registry.yarnpkg.com/git-config-path/-/git-config-path-2.0.0.tgz#62633d61af63af4405a5024efd325762f58a181b"
   integrity sha512-qc8h1KIQbJpp+241id3GuAtkdyJ+IK+LIVtkiFTRKRrmddDzs3SI9CvP1QYmWBFvm1I/PWRwj//of8bgAc0ltA==
 
-git-cz@^4.6.2:
+git-cz@4.6.2:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-4.6.2.tgz#ae3d02d88c2032e6ba3af6467dc08ae0cc4305bc"
   integrity sha512-SDLLWmMmAkG33bqAMp5idrr9gbpduyaJ7JjRzC34HPpQ7UGRgG13C5hqc0S7bOTISQu0j8vD3CrK7cyCU99iFA==
