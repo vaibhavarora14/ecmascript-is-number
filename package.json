@@ -1,5 +1,5 @@
 {
-  "name": "ecmascript-library-template",
+  "name": "ecmascript-is-number",
   "version": "0.0.0-development",
   "private": false,
   "description": "EcmaScript library to check value is valid number or not 🙌",
