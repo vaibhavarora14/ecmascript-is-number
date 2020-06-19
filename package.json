@@ -3,16 +3,16 @@
   "version": "0.0.0-development",
   "private": false,
   "description": "EcmaScript library to check value is valid number or not 🙌",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/varora1406/ecmascript-is-number.git"
-  },
   "keywords": [
     "number",
     "ecmascript",
     "javascript",
     "is-number"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varora1406/ecmascript-is-number.git"
+  },
   "license": "MIT",
   "author": "Vaibhav Arora <varora1406@gmail.com>",
   "main": "dist/",
