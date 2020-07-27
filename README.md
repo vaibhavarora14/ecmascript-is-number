@@ -1,6 +1,6 @@
-# EcmaScript-library-template
+# Is Number
 
-[![GitHub license](https://img.shields.io/github/license/varora1406/ecmascript-library-template?style=flat)](https://github.com/varora1406/ecmascript-library-template/blob/master/LICENSE) [![Tests](https://github.com/varora1406/ecmascript-library-template/workflows/CI/badge.svg)](https://github.com/varora1406/ecmascript-library-template/actions) [![codecov](https://codecov.io/gh/varora1406/ecmascript-library-template/branch/master/graph/badge.svg)](https://codecov.io/gh/varora1406/ecmascript-library-template) ![npm](https://img.shields.io/npm/varora1406/ecmascript-library-template)
+[![GitHub license](https://img.shields.io/github/license/varora1406/ecmascript-is-number?style=flat)](https://github.com/varora1406/ecmascript-is-number/blob/master/LICENSE) [![Tests](https://github.com/varora1406/ecmascript-is-number/workflows/CI/badge.svg)](https://github.com/varora1406/ecmascript-is-number/actions) [![codecov](https://codecov.io/gh/varora1406/ecmascript-is-number/branch/master/graph/badge.svg)](https://codecov.io/gh/varora1406/ecmascript-is-number) ![npm](https://img.shields.io/npm/varora1406/ecmascript-is-number)
 
 Check if a value is a number
 
